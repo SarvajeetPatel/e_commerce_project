@@ -1,0 +1,10 @@
+.rootRow{
+    background-image: linear-gradient(to bottom ,#3c93be ,#00405a );
+    position: fixed;
+    width: 100%;
+  }
+  
+  .innerRow{
+    background-image: linear-gradient(to bottom, #003f58 ,#004d73);
+    
+  }

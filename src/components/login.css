@@ -1,0 +1,30 @@
+   fieldset {
+    
+       margin-left: 20%;
+       margin-right: 20%;
+       background-image: linear-gradient(
+                #2eaed9 0%,
+                #1e9ac4 0%,
+               #4b99b1 16%,
+               #338da8 24%,
+               #327a91 48%,
+               #185e75 65%,
+               #0d5e79 82%,
+               #02394b 100%
+               /* #2eaed9 0%,
+        #6bb8cf 10%,
+        #7fc3d6 16%,
+        #9eb4c2 24%,
+        #bb9fae 40%,
+        #c49fae 48%,
+        #d39586 76%,
+        #d63176 100% */
+           );
+       width: 400px;
+       height: 400px;
+       display: flex;
+       justify-content: center;
+       padding-top: 2cm;
+   }
+
+   
